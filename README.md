@@ -1,4 +1,7 @@
-# React Figma Notes
+# React Figma Notes 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f679a0c-9ff8-4c57-83d7-06728f40d076/deploy-status)](https://app.netlify.com/sites/scintillating-crostata-a8010d/deploys)
+
+Netlify: https://mini-react-figma-notes.netlify.app/
 
 A note-taking app inspired by Figma, built with React, Redux, and localStorage.
 
